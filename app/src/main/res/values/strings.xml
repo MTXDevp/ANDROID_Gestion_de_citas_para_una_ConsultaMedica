@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">CitasMedico</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="action_sign_in_short">Iniciar Sesión</string>
+    <string name="error_invalid_email">La dirección de correo es inválida</string>
+    <string name="error_invalid_password">La contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Campo requerido</string>
+    <string name="permission_rationale">"Debes de activar los permisos necesarios"</string>
+    <string name="o">"o"</string>
+    <string name="REGISTRARSE">"REGISTRARSE"</string>
+    <string name="crear_cuenta">"Crear Cuenta"</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_menu_usuario">MenuUsuario</string>
+    <string name="hilo_completado">Tarea Completada</string>
+    <string name="hilo_cargando">Cargando…</string>
+    <string name="hilo_iniciando">Iniciando Sesion</string>
+    <string name="error_caja_vacia">No puedes dejar la caja vacia</string>
+    <string name="usuario">Usuario</string>
+    <string name="consulta">"Consulta"</string>
+    <string name="dia">"Dia"</string>
+    <string name="hora">"Hora"</string>
+    <string name="medico_cabezera">"Médico Cabecera"</string>
+    <string name="enfermeria">"Enfermería"</string>
+    <string name="psicologo">"Psicólogo"</string>
+    <string name="citas">"citas"</string>
+    <string name="ok">"OK"</string>
+    <string name="l">"L"</string>
+    <string name="ma">"MA"</string>
+    <string name="mi">"MI"</string>
+    <string name="j">"J"</string>
+    <string name="v">"V"</string>
+    <string name="cita_sacada">"Cita Sacada con Éxito"</string>
+
+
+
+
+
+
+
+
+
+    <!--LIST VIEW ELEMENTS-->
+    <string-array name="consultas">
+        <item>Médico Cabecera</item>
+        <item>Enfermería</item>
+        <item>Psicólogo</item>
+    </string-array>
+
+    <string-array name="filtro">
+        <item>Correo</item>
+        <item>Consulta</item>
+        <item>Hora</item>
+        <item>Dia</item>
+    </string-array>
+
+
+</resources>
