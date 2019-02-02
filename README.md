@@ -2,4 +2,4 @@
 
 ## Comenzando 🚀
 
-PRONTO SERA AÑADIDO EN README COMPLETO, ando puliendo la implementacion de cloud firestore
+PRONTO SERA AÑADIDO El README COMPLETO, ando puliendo la implementacion de cloud firestore
