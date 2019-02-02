@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arzttermine</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Passwort</string>
+    <string name="action_sign_in">Sitzung starten</string>
+    <string name="action_sign_in_short">Sitzung starten</string>
+    <string name="error_invalid_email">Die E-Mail-Adresse ist ungültig</string>
+    <string name="error_invalid_password">Das Passwort ist zu kurz</string>
+    <string name="error_incorrect_password">Das Passwort ist falsch</string>
+    <string name="error_field_required">Erforderliches Feld</string>
+    <string name="permission_rationale">Sie müssen die erforderlichen Berechtigungen aktivieren</string>
+    <string name="o">o</string>
+    <string name="REGISTRARSE">REGISTRIEREN</string>
+    <string name="crear_cuenta">Konto erstellen</string>
+    <string name="title_activity_menu">Menü</string>
+    <string name="action_settings">die Einstellungen</string>
+    <string name="section_format">xd</string>
+    <string name="title_activity_menu_usuario">Benutzermenü</string>
+    <string name="hilo_completado">Aufgabe abgeschlossen</string>
+    <string name="hilo_cargando">Laden...</string>
+    <string name="hilo_iniciando">Sitzung starten</string>
+    <string name="error_caja_vacia">Sie können die leere Box nicht verlassen</string>
+    <string name="usuario">Benutzer</string>
+    <string name="consulta">Beratung</string>
+    <string name="dia">Tag</string>
+    <string name="hora">Stunde</string>
+    <string name="medico_cabezera">Medizinische Kopfzeile</string>
+    <string name="enfermeria">Krankenpflege</string>
+    <string name="psicologo">Psychologe</string>
+    <string name="citas">Dating</string>
+    <string name="ok">OK</string>
+    <string name="l">MO</string>
+    <string name="ma">DI</string>
+    <string name="mi">MI</string>
+    <string name="j">DO</string>
+    <string name="v">F</string>
+    <string name="cita_sacada">Erfolgreicher Termin</string>
+</resources>
