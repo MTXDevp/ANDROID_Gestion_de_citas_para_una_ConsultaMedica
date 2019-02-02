@@ -2,4 +2,4 @@
 
 ## Comenzando 🚀
 
-PRONTO SERA AÑADIDO EN README COMPLETO, acabo de implementar Cloud Firestore como BD en la nube
+PRONTO SERA AÑADIDO EN README COMPLETO, ando puliendo la implementacion de cloud firestore
