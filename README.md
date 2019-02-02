@@ -2,6 +2,4 @@
 
 ## Comenzando 🚀
 
-##Usamos cloud firestore como BD en la nube
-##PRONTO SERA AÑADIDO EN README COMPLETO, gracias
-
+PRONTO SERA AÑADIDO EN README COMPLETO, acabo de implementar Cloud Firestore como BD en la nube
