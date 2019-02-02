@@ -1,4 +1,4 @@
-# App Android para gestionar citas en una consulta medica
+# App Android para gestionar citas de una consulta medica
 
 ## Comenzando 🚀
 
