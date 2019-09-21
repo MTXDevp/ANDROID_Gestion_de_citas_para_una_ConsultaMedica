@@ -2,4 +2,4 @@
 
 ## Comenzando 🚀
 
-PRONTO SERA AÑADIDO El README COMPLETO, ando puliendo la implementación de cloud firestore
+Implementado servicio de voz mediante IA 
