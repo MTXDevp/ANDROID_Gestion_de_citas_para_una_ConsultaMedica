@@ -2,4 +2,4 @@
 
 ## Comenzando 🚀
 
-Implementado servicio de voz mediante IA 
+Implementado servicio de voz mediante Inteligencia artificial
